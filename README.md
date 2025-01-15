@@ -9,6 +9,6 @@ This repository highlights my projects and key learnings from Udacity Nanodegree
 2.  [Image Classifier](https://github.com/BuzzHeng/IntroML-TensorFlow-P2_Image_Classifier)
    Built a deep learning model using TensorFlow to classify images into categories.
    - **Key Skills**: CNN, transfer learning, image preprocessing, model evaluation.
-2.  [Identify Customer Segment](https://github.com/BuzzHeng/IntroML-TensorFlow-P3_Identify_Customer_Segments)
+3.  [Identify Customer Segment](https://github.com/BuzzHeng/IntroML-TensorFlow-P3_Identify_Customer_Segments)
    Identified customer segments for a mail-order company using demographic data from Germany.  
    - **Key Skills**: Data cleaning, PCA for dimensionality reduction, k-means clustering, demographic analysis.
