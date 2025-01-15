@@ -2,13 +2,13 @@
 This repository highlights my projects and key learnings from Udacity Nanodegree programs, including programming, web development, and AI. It showcases my applied skills and progress across these disciplines.
 
 ## Introduction to Machine Learning with TensorFlow
-
-### Project 1: [Finding Donors for CharityML](https://github.com/BuzzHeng/cd0025-supervised-learning/tree/master)
-**Overview**:  
+###### Project
+1. [Finding Donors for CharityML](https://github.com/BuzzHeng/IntroML-TensorFlow-P1_Finding_Donors)
 Predicted whether individuals earn over $50,000 using census data and supervised learning.
-
-**Key Learnings**:
-Data preprocessing and transformation.
-One-hot encoding of categorical features.
-Model comparison: Logistic Regression, Random Forest, SVM.
-Hyperparameter tuning using GridSearchCV.
+- **Key Skills**: Data preprocessing, one-hot encoding, model comparison (Logistic Regression, Random Forest, SVM), hyperparameter tuning (GridSearchCV).
+2.  [Image Classifier](https://github.com/BuzzHeng/IntroML-TensorFlow-P2_Image_Classifier)
+Built a deep learning model using TensorFlow to classify images into categories.
+- **Key Skills**: CNN, transfer learning, image preprocessing, model evaluation.
+2.  [Identify Customer Segment](https://github.com/BuzzHeng/IntroML-TensorFlow-P3_Identify_Customer_Segments)
+Built a deep learning model using TensorFlow to classify images into categories.
+- **Key Skills**: CNN, transfer learning, image preprocessing, model evaluation.
